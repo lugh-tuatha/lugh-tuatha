@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there. welcome to Ace Gabriel profile 👋
 
+Hi! My name is Ace Gabriel P. I am a Student Web Dveloper. Currently studying at AMA University as a SHS Student. My interests are in Web Developer, I love to create beautiful and performant products with delightful user experiences.
 <!--
 **lugh-tuatha/lugh-tuatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
