@@ -33,6 +33,6 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao aka lugh-tuatha
 
 ---
 ### 👀 Visitors
-<div align="center">
+<div align="left">
   <img src="https://count.getloli.com/get/@lugh-tuatha" alt="lugh-tuatha's count"/>
 </div>
