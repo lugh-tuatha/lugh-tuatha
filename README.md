@@ -22,7 +22,6 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao aka lugh-tuatha
 ## 📊 Github Status 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=lugh-tuatha_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=lugh-tuatha&theme=react" width="48%" >
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lugh-tuatha&theme=react)
 <br>
 
