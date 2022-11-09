@@ -1,7 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Nice to meet you, I'm Ace Gabriel P. Pasiliao aka lugh-tuatha
-
+Nice to meet you, I'm Ace Gabriel P. Pasiliao
 ## Who Am I? 🤠
 
 - 🤓 Self taught Developer 
