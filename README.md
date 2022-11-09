@@ -6,9 +6,6 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao aka lugh-tuatha
 
 - 🤓 Self taught Developer 
 - 🎯 Goal : To be a better Developer 
-- 💌 Fun Facts : 
-    - Loves food but can't' cook 🐼 
-    - Overthinks thinking to not to overthink 🙂
     
 <br>
 
