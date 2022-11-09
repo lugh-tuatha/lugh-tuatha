@@ -32,6 +32,13 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao aka lugh-tuatha
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lugh-tuatha&icon=0&color=0)](https://visitcount.itsvg.in)
+### 👀 Visitors
+<div align="center">
+  <img src="https://count.getloli.com/get/@lugh-tuatha" alt="lugh-tuatha's count"/>
+  <p>Thanks to visited.</p>
+</div>
+<div align=right>
+  <p>frg2089</p>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
