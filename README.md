@@ -28,11 +28,6 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao aka lugh-tuatha
 ![github graph](https://activity-graph.herokuapp.com/graph?username=lugh-tuatha&theme=react-dark)
 <br>
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lugh-tuatha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lugh-tuatha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lugh-tuatha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
