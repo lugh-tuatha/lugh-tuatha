@@ -4,7 +4,7 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ace+Gabriel%2C+18+years+old;Front-end+Web+Developer)](https://git.io/typing-svg)
 
-## Who Am I? 🤠
+## Who Am I? 
 
 - 🤓 Self taught Developer 
 - 🎯 Goal : To be a better Developer 
