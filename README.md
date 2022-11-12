@@ -24,7 +24,7 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lugh-tuatha&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lugh-tuatha&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=lugh-tuatha&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lugh-tuatha&theme=dark&hide_border=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
