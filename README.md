@@ -1,9 +1,9 @@
+<br>
+<a href="https://github.com/connornishijima/Pixie_Chroma/#readme" ><img src="ace-a.gif"></a>
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 Nice to meet you, I'm Ace Gabriel P. Pasiliao
-
-<br>
-<a href="https://github.com/connornishijima/Pixie_Chroma/#readme" ><img src="ace.gif"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ace+Gabriel%2C+18+years+old;Front-end+Web+Developer)](https://git.io/typing-svg)
 
