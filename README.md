@@ -1,7 +1,7 @@
 <br>
 <a href="https://github.com/connornishijima/Pixie_Chroma/#readme" ><img src="ace-a.gif"></a>
 
-# , folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 Nice to meet you, I'm Ace Gabriel P. Pasiliao
 
