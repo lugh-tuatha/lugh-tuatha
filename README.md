@@ -32,8 +32,6 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 ![](https://github-readme-stats.vercel.app/api?username=lugh-tuatha&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lugh-tuatha&theme=dark&hide_border=false)<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ![github graph](https://activity-graph.herokuapp.com/graph?username=lugh-tuatha&theme=react-dark)
 <br>
 
