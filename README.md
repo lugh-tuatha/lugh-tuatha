@@ -11,7 +11,7 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 - 🤓 Self taught Developer 
 - 🎯 Goal : To be a better Developer 
 - 😄 Pronouns : He/him
-- 🔭 I’m currently working on [Hand for the Filipinos Project](https://github.com/lugh-tuatha/hands-for-filipinos)
+- 🔭 I’m currently working on [Kuya 'J Hausilog Project](https://github.com/lugh-tuatha/kuya-j-hausilog)
 - 👀 See my [Personal portfolio](https://lugh-tuatha.github.io/personal-portfolio/) to get more info
     
 ## 💻 Connect with me:
