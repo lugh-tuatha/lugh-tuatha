@@ -12,7 +12,7 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 - 🎯 Goal : To be a better Developer 
 - 😄 Pronouns : He/him
 - 🔭 I’m currently working on [Kuya 'J Hausilog Project](https://github.com/lugh-tuatha/kuya-j-hausilog)
-- 👀 See my [Personal portfolio](https://lugh-tuatha.github.io/personal-portfolio/) to get more info
+- 👀 See my [Personal portfolio](https://personal-portfolio-six.vercel.app/) to get more info
     
 ## 💻 Connect with me:
 <p align="left">
