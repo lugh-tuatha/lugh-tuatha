@@ -8,9 +8,13 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ace+Gabriel%2C+18+years+old;Aspiring+Front-end+Web+Developer)](https://git.io/typing-svg)
 
 ## 🤠 Who Am I? 
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CompetentFarflungBergerpicard-max-1mb.gif">
+
 - 🤓 Self taught Developer 
 - 🎯 Goal : To be a better Developer 
 - 😄 Pronouns : He/him
+- 🌱 I’m currently learning Javascript, Bootstrap and Design Principle
+- 👯 I’m looking to collaborate on any projects
 - 🔭 I’m currently working on [Kuya 'J Hausilog Project](https://github.com/lugh-tuatha/kuya-j-hausilog)
 - 👀 See my [Personal portfolio](https://personal-portfolio-six.vercel.app/) to get more info
     
