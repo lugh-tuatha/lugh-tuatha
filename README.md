@@ -17,6 +17,7 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 - 👯 I’m looking to collaborate on any projects
 - 🔭 I’m currently working on [Kuya 'J Hausilog Project](https://github.com/lugh-tuatha/kuya-j-hausilog)
 - 👀 See my [Personal portfolio](https://personal-portfolio-six.vercel.app/) to get more info
+- 💬 Ask me about HTML CSS
     
 ## 💻 Connect with me:
 <p align="left">
