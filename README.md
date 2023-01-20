@@ -31,7 +31,7 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 - 🌱 I’m currently learning Javascript, Sass and Design Principle
 - 👯 I’m looking to collaborate on any projects
 - 🔭 I’m currently working on [Acessignment](https://github.com/lugh-tuatha/acessignment)
-- 👀 See my [Personal portfolio](https://personal-portfolio-six.vercel.app/) to get more info
+- 👀 See my [Personal portfolio](https://ace-portfolio.vercel.app/) to get more info
 - 💬 Ask me about HTML CSS
     
 ## 💻 Connect with me:
