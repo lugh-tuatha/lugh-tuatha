@@ -52,9 +52,6 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 ![](https://github-readme-stats.vercel.app/api?username=lugh-tuatha&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lugh-tuatha&theme=dark&hide_border=false)<br/>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=lugh-tuatha&theme=react-dark)
-<br>
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dnn7ushmw7dbt2evlrdrcv25se&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31dnn7ushmw7dbt2evlrdrcv25se&redirect=true)
 
 ### ✍️ Random Dev Quote
