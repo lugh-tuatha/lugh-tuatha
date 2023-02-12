@@ -13,11 +13,11 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 - 🤓 Self taught Developer 
 - 🎯 Goal : To be a better Developer 
 - 😄 Pronouns : He/him
-- 🌱 I’m currently learning Javascript, Sass and Design Principle
+- 🌱 I’m currently learning Javascript, React
 - 👯 I’m looking to collaborate on any projects
-- 🔭 I’m currently working on Azriel (repo and concept is private)
+- 🔭 I’m currently working on [nft.azriel](https://github.com/lugh-tuatha/nft.azriel)
 - 👀 See my [Personal portfolio](https://ace-portfolio.vercel.app/) to get more info
-- 💬 Ask me about HTML CSS
+- 💬 Ask me about HTML, CSS, SCSS, JavaScript
     
 ## 💻 Connect with me:
 <p align="left">
