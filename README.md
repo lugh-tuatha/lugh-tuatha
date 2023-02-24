@@ -15,7 +15,7 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 - 😄 Pronouns : He/him
 - 🌱 I’m currently learning Javascript, React
 - 👯 I’m looking to collaborate on any projects
-- 🔭 I’m currently working on [acessignment.v2](https://github.com/lugh-tuatha/nft.azriel)
+- 🔭 I’m currently working on [acessignment.v2](https://github.com/lugh-tuatha/acessignment.v2)
 - 👀 See my [Personal portfolio](https://ace-portfolio.vercel.app/) to get more info
 - 💬 Ask me about HTML, CSS, SCSS, JavaScript
     
