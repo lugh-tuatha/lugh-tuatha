@@ -32,11 +32,11 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 
 
 ## 🌟 My Weapons:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lugh-tuatha&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lugh-tuatha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lugh-tuatha&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=lugh-tuatha&theme=dark&hide_border=false)<br/>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=lugh-tuatha&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lugh-tuatha&theme=radical&hide_border=false)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dnn7ushmw7dbt2evlrdrcv25se&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31dnn7ushmw7dbt2evlrdrcv25se&redirect=true)
 
