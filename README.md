@@ -16,7 +16,7 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 - 🌱 I’m currently learning Javascript, React
 - 👯 I’m looking to collaborate on any projects
 - 🔭 I’m currently working on [portfolio](https://github.com/lugh-tuatha/portfolio)
-- 👀 See my [Personal portfolio](https://acegabriel-portfolio.vercel.app) to get more info
+- 👀 See my [Personal portfolio](https://ace-portfolio.vercel.app) to get more info
 - 💬 Ask me about HTML, CSS, SCSS, JavaScript
     
 ## 💻 Connect with me:
