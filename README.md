@@ -13,7 +13,7 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 - 🤓 Self taught Developer 
 - 🎯 Goal : To be a better Developer 
 - 😄 Pronouns : He/him
-- 🌱 I’m currently learning Javascript, React
+- 🌱 I’m currently learning Javascript, React, Nextjs
 - 👯 I’m looking to collaborate on any projects
 - 🔭 I’m currently working on [portfolio](https://github.com/lugh-tuatha/portfolio)
 - 👀 See my [Personal portfolio](https://ace-portfolio.vercel.app) to get more info
