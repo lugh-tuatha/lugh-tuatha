@@ -1,12 +1,22 @@
-<br>
 <a href="https://github.com/connornishijima/Pixie_Chroma/#readme" ><img src="ace-a.gif"></a>
+
+<a href="https://app.daily.dev/Acelle" alt="Ace Dev Card"/>
+    <img src="https://raw.githubusercontent.com/lugh-tuatha/lugh-tuatha/main/devcard.svg" width="256" align="left"/>
+</a>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 Nice to meet you, I'm Ace Gabriel P. Pasiliao
-<a href="https://github.com/lugh-tuatha/lugh-tuatha/blob/main/devcard.svg" width="400" alt="Ace Dev Card"/></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ace+Gabriel%2C+19+years+old;Aspiring+Front-end+Web+Developer)](https://git.io/typing-svg)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## 🤠 Who Am I? 
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CompetentFarflungBergerpicard-max-1mb.gif">
