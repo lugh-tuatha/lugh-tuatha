@@ -4,6 +4,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 Nice to meet you, I'm Ace Gabriel P. Pasiliao
+<a href="https://github.com/lugh-tuatha/lugh-tuatha/blob/main/devcard.svg" width="400" alt="Ace Dev Card"/></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ace+Gabriel%2C+19+years+old;Aspiring+Front-end+Web+Developer)](https://git.io/typing-svg)
 
