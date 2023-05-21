@@ -10,6 +10,8 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ace+Gabriel%2C+19+years+old;Aspiring+Front-end+Web+Developer)](https://git.io/typing-svg)
 
+Connect with me
+
 <p align="left">
 <a href="https://twitter.com/_tuatha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_tuatha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ace-gabriel-p-pasiliao-74594b250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ace-gabriel-p-pasiliao-74594b250" height="30" width="40" /></a>
