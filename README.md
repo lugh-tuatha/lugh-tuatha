@@ -40,8 +40,9 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lugh-tuatha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=lugh-tuatha&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=lugh-tuatha&theme=radical&hide_border=false)
+<img  alt="Lugh GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Lugh-tuatha?cardType=github&theme=react&preferLogin=false&Border=2DCDDF" />
+<img title="Github Streaks" alt="JLCode streak" src="http://github-readme-streak-stats.herokuapp.com?user=lugh-tuatha&theme=react&border=2DCDDF&sideNums=2DCDDF"/>
+
 
 ## 📈 GitHub Activity Graph:
 ![Ace's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lugh-tuatha&theme=github-compact)
