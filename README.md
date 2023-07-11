@@ -31,14 +31,11 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white)
 
 ## 🌟 My Weapons:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lugh-tuatha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lugh-tuatha&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=ocean_dark)](https://github.com/timmy-cde/github-readme-stats)
 
 # 📊GitHub Stats :
 <img  alt="Lugh GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Lugh-tuatha?cardType=github&theme=react&preferLogin=false&Border=2DCDDF" />
 <img title="Github Streaks" alt="JLCode streak" src="http://github-readme-streak-stats.herokuapp.com?user=lugh-tuatha&theme=react&border=2DCDDF&sideNums=2DCDDF"/>
-
-## 📈 GitHub Activity Graph:
-![Ace's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lugh-tuatha&theme=github-compact)
 
 ## Connect with me
 <p>
