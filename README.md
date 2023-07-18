@@ -10,11 +10,11 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 - 🤓 Self taught Developer 
 - 🎯 Goal : To be a better Developer 
 - 😄 Pronouns : He/him
-- 🌱 I’m currently learning Javascript, React, Nextjs
+- 🌱 I’m currently learning Angular & Typescript
 - 👯 I’m looking to collaborate on any projects
-- 🔭 I’m currently working on [emowall](https://github.com/lugh-tuatha/EmoWall)
+- 🔭 I’m currently working on [thekhtech](https://github.com/lugh-tuatha/thekhtech)
 - 👀 See my [Personal portfolio](https://ace-portfolio.vercel.app) to get more info
-- 💬 Ask me about HTML, CSS, SCSS, JavaScript
+- 💬 Ask me about HTML, CSS, JavaScript, React, NextJS
 
 <!-- # hatdog
 <a href="https://app.daily.dev/Acelle" alt="Ace Dev Card"/>
