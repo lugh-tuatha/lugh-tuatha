@@ -12,7 +12,7 @@ Nice to meet you, I'm Ace Gabriel P. Pasiliao
 - 😄 Pronouns : He/him
 - 🌱 I’m currently learning Angular & Typescript
 - 👯 I’m looking to collaborate on any projects
-- 🔭 I’m currently working on [thekhtech](https://github.com/lugh-tuatha/thekhtech)
+- 🔭 I’m currently working on my [portfoloio](https://github.com/lugh-tuatha/AP-portfolio)
 - 👀 See my [Personal portfolio](https://ace-portfolio.vercel.app) to get more info
 - 💬 Ask me about HTML, CSS, JavaScript, React, NextJS
 
