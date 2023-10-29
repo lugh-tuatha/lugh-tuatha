@@ -32,9 +32,13 @@ introduction.details.forEach(detail => {
 ## 🌟 My Weapons:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lugh-tuatha&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=ocean_dark)](https://github.com/timmy-cde/github-readme-stats)
 
-# 📊GitHub Stats :
+# 📊GitHub Stats:
 <img  alt="Lugh GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Lugh-tuatha?cardType=github&theme=react&preferLogin=false&Border=2DCDDF" />
 <img title="Github Streaks" alt="JLCode streak" src="http://github-readme-streak-stats.herokuapp.com?user=lugh-tuatha&theme=react&border=2DCDDF&sideNums=2DCDDF"/>
+
+# 📊 Wakatime Stats:
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lughtuatha&theme=dark)
 
 ## Connect with me
 <p>
