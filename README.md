@@ -36,6 +36,11 @@ introduction.details.forEach(detail => {
 <img  alt="Lugh GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Lugh-tuatha?cardType=github&theme=react&preferLogin=false&Border=2DCDDF" />
 <img title="Github Streaks" alt="JLCode streak" src="http://github-readme-streak-stats.herokuapp.com?user=lugh-tuatha&theme=react&border=2DCDDF&sideNums=2DCDDF"/>
 
+# 👩🏻‍💻Codewars Stats
+<a href="https://www.codewars.com/users/lugh-tuatha">
+  <img src="https://www.codewars.com/users/lugh-tuatha/badges/large" />
+</a>
+
 # 📊 Wakatime Stats:
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lughtuatha&theme=dark)
