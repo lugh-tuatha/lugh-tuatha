@@ -2,7 +2,7 @@
 
 Nice to meet you, I'm Ace Gabriel P. Pasiliao
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ace+Gabriel%2C+19+years+old;Aspiring+Front-end+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ace+Gabriel%2C+20+years+old;Fullstack+Web+Developer)](https://git.io/typing-svg)
 
 ```js
 const introduction = {
