@@ -43,7 +43,7 @@ introduction.details.forEach(detail => {
 
 # 📊 Wakatime Stats:
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lughtuatha&theme=dark)
+![Lugh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lughtuatha\&layout=compact)
 
 ## Connect with me
 <p>
