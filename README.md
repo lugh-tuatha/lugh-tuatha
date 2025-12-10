@@ -1,6 +1,10 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Nice to meet you, I'm Ace Gabriel P. Pasiliao
+<pre>
+Nice to meet you, I'm . . .
+Wait I who am I?
+Who lured me into this world?
+</pre>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ace+Gabriel%2C+21+years+old;Fullstack+Web+Developer)](https://git.io/typing-svg)
 
@@ -9,8 +13,8 @@ const introduction = {
   name: "🤠 Who Am I?",
   details: [
     "🤓 Self taught Developer",
-    "🎯 Goal: To be a better Developer",
     "😄 Pronouns: He/him",
+    "🖖 Angular & NestJS fanatics",T
     "🌱 Currently learning Deep Learning with Python",
     "👯 Looking to collaborate on any projects",
     "💬 Ask me about Web Development"
@@ -23,13 +27,13 @@ introduction.details.forEach(detail => {
 });
 ```
 
-- 🔭 I’m currently working on [Attendify](https://github.com/lugh-tuatha/attendify-frontend)
+## ⬆ What I'm up to
+- 🔭 I’m currently...
+  - Developing Astryss, freedom platform where users send their thoughts “to the stars.”
+  - Updating & Maintaining Attendify, face recognition attendance management with real-time analytics.
 - 👀 See my [Personal portfolio](https://ace-gabriel.netlify.app) to get more info
 
-<div style='display: flex; align-items: center; gap: .5rem;'>
-  <img src='https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Programming_Languages.gif?raw=true' width='50px'/>
-  <h2 width='100%'>Technologies I work with</h2>
-</div>
+## 🧉 I'm an Angular & NestJS fanboy, but I do other stuff too such;
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -62,8 +66,7 @@ introduction.details.forEach(detail => {
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-<details>
-<summary>Other Tools & Technologies</summary>
+Other Tools & Technologies</summary>
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
@@ -72,9 +75,6 @@ introduction.details.forEach(detail => {
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-</details>
-
-
 ## 🧉 Connect with me
 <a href="https://twitter.com/_tuatha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_tuatha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ace-gabriel-p-pasiliao-74594b250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ace-gabriel-p-pasiliao-74594b250" height="30" width="40" /></a>
@@ -82,12 +82,18 @@ introduction.details.forEach(detail => {
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/971077954941620276?borderRadius=5px&idleMessage=%F0%9F%8C%BFAFK%20in%20real%20life&theme=dark)](https://discord.com/users/971077954941620276)
 
+<a href="https://github.com/PriyankeshRaj"><img src="https://img.shields.io/github/followers/lugh-tuatha?label=follow&style=social"></a>
 
 ## 📊 Top Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lugh-tuatha&layout=compact&langs_count=8&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lugh-tuatha&layout=compact&langs_count=8&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lugh-tuatha&layout=compact&langs_count=8&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🍹 Ace's Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lugh-tuatha&include_all_commits=false&show_icons=true&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lugh-tuatha&include_all_commits=false&show_icons=true&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=lugh-tuatha&include_all_commits=false&show_icons=true&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com/?user=lugh-tuatha&theme=dark&fire=259076&hide_border=true&ring=259076&currStreakLabel=259076" alt="" /></a>
 
 ## 👩🏻‍💻 Codewars Stats
@@ -96,24 +102,26 @@ introduction.details.forEach(detail => {
 </a>
 
 ## 📊 Wakatime Stats:
-[![wakatime](https://wakatime.com/badge/user/018b76ca-407e-41f4-b120-d99795dc2159.svg)](https://wakatime.com/@018b76ca-407e-41f4-b120-d99795dc2159) <br>
-![Lugh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lughtuatha\&layout=compact)
+<a href="https://wakatime.com/@lughtuatha" title="Data update every midnight"><img src="https://wakatime.com/badge/user/018b76ca-407e-41f4-b120-d99795dc2159.svg?style=for-the-badge" alt="Wakatime coding activity Tracker" /></a> <br>
+![Lugh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lughtuatha\&layout=compact) <br>
+If wakatime stats don't work, he must be cosplaying Cloudflare 
 
 ## 📚 Notable Repositories to Check Out
 Here are some of my key projects <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lugh-tuatha&repo=attendify-frontend)](https://github.com/lugh-tuatha/attendify-frontend)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lugh-tuatha&repo=attendify-frontend)](https://github.com/lugh-tuatha/attendify-frontend)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lugh-tuatha&repo=astryss-frontend)](https://github.com/lugh-tuatha/astryss-frontend)
+
+## 📝 Write something nice in my guest book
+Feel free to reach out for collaborations, projects, or just to say hi! <br> <br>
+[![Guest book](https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif)](https://github.com/lugh-tuatha/lugh-tuatha/issues)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-
 ### 👀 Visitors
 <div align="left">
   <img src="https://count.getloli.com/get/@lugh-tuatha" alt="lugh-tuatha's count"/>
 </div>
 
-💬 Feel free to reach out for collaborations, projects, or just to say hi!
-
-> Last Edited on: 11/26/2025
+> Last Manually Edited: 2025-12-11
